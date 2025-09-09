@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Lâm Nguyễn Trọng Nam, MSSV 222193
+Đây là README từ nhánh conflict-demo
