@@ -7,3 +7,7 @@ Kỹ năng:
 1. Python
 2. Git
 3. Phân tích dữ liệu
+- Kế hoạch học tập:
+ 1. Học lý thuyết cơ bản về lập trình.
+ 2. Rèn luyện kỹ năng sử dụng Git để quản lý mã nguồn.
+ 3. Thực hành giải bài tập và tham gia các dự án thực tế.
