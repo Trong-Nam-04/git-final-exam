@@ -1,0 +1,5 @@
+- Tính năng mới: Hệ thống đăng nhập.
+ - Người dùng có thể đăng nhập bằng tài khoản và mật khẩu.
+ - Cung cấp tính năng quên mật khẩu.
+ - Giao diện đơn giản và dễ sử dụng.
+ - Đảm bảo tính bảo mật cho thông tin người dùng.
